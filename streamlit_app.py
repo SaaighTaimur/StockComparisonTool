@@ -41,7 +41,6 @@ def load_lottie(filepath: str):
 
 # Title the website
 st.title("Stocks Comparison Tool\n")
-st.write("###")
 
 # Create two columns
 col1, col2 = st.columns(2, gap="small")
